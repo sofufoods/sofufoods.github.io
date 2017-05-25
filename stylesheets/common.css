@@ -1,8 +1,7 @@
-body { background:black;}
 
-div { text-align:center; }
+div { text-align:center; background:#000; }
 
-div img { vertical-align:middle;}
+div img { vertical-align:middle; background:#000; }
 
 .padding_top_5 { padding-top: 5%; }
 
