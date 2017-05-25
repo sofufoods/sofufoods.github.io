@@ -1,8 +1,8 @@
-body { background:#000; }
+body { background-color:#000; }
 
-div { text-align:center; background:#000; }
+div { text-align:center; }
 
-div img { vertical-align:middle; background:#000; }
+div img { vertical-align:middle; }
 
 .padding_top_5 { padding-top: 5%; }
 
