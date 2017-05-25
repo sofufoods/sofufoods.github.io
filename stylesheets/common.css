@@ -1,12 +1,10 @@
 html { background-color:#000; }
 
-body {
-   background:#000 !important;
-}
+body { background-color:#000 !important; }
 
-div { text-align:center; }
+div { text-align:center; background-color:#000 !important; }
 
-div img { vertical-align:middle; }
+div img { vertical-align:middle; background-color:#000 !important; }
 
 .padding_top_5 { padding-top: 5%; }
 
